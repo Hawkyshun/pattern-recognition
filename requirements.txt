@@ -1,0 +1,13 @@
+# Elazığ Trafik Analiz Sistemi Gereksinimleri
+
+# Görüntü işleme kütüphanesi
+opencv-python>=4.8.0
+
+# Bilimsel hesaplama kütüphanesi
+numpy>=1.24.0
+
+# YOLO nesne tespit modeli
+ultralytics>=8.0.0
+
+# Nesne takip algoritması
+deep-sort-realtime>=1.3.0 
